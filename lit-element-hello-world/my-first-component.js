@@ -10,7 +10,7 @@ class MyFirstComponent extends LitElement {
     }
 
     render() {
-        return html`<p>Hello, ${this.name}</p>`
+        return html`<h3>Hello, ${this.name} !</h3>`
     }
 }
 customElements.define('my-first-component', MyFirstComponent)
