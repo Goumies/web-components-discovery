@@ -1,0 +1,24 @@
+{
+  "name": "custom-elements",
+  "version": "0.0.1",
+  "description": "",
+  "main": "",
+  "scripts": {
+    "serve": "polyserve --npm -H localhost -p 3001",
+    "start": "npm run serve"
+  },
+  "keywords": [
+    "litElement",
+    "web",
+    "components"
+  ],
+  "author": "Romy Alula",
+  "license": "ISC",
+  "dependencies": {
+    "braces": "^3.0.2",
+    "lit-element": "^2.2.1"
+  },
+  "devDependencies": {
+    "polyserve": "^0.27.15"
+  }
+}

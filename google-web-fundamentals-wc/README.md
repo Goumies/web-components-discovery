@@ -1,0 +1,1 @@
+Based on [google devs](https://developers.google.com/web/fundamentals/web-components/)
