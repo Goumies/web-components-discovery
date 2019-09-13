@@ -15,6 +15,7 @@
   "author": "Romy Alula",
   "license": "ISC",
   "dependencies": {
+    "braces": "^3.0.2",
     "lit-element": "^2.2.1"
   },
   "devDependencies": {
