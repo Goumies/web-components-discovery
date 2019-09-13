@@ -1,0 +1,23 @@
+{
+  "name": "lit-element-hello-world",
+  "version": "0.0.1",
+  "description": "",
+  "main": "",
+  "scripts": {
+    "serve": "polyserve --npm -H localhost -p 3000",
+    "start": "npm run serve"
+  },
+  "keywords": [
+    "litElement",
+    "web",
+    "components"
+  ],
+  "author": "Romy Alula",
+  "license": "ISC",
+  "dependencies": {
+    "lit-element": "^2.2.1"
+  },
+  "devDependencies": {
+    "polyserve": "^0.27.15"
+  }
+}
